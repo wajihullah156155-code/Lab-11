@@ -1,0 +1,15 @@
+body {
+    margin: 0; /* Removes the default margin around the page */
+    font-family: Arial, sans-serif; /* Sets Arial as the font */
+    background: mintcream; /* Adds a soft mint background */
+    color: darkslategray; /* Sets the default text color to dark teal */
+}
+
+
+#container {
+    width: 80%; /* Makes the container occupy 80% of the page width */
+    margin: 50px auto; /* Adds top and bottom spacing and centers horizontally */
+    padding: 24px; /* Adds space between the content and container border */
+    background: snow; /* Gives the container an off-white background */
+    border: 2px solid lightblue; /* Adds a soft teal border */
+}
